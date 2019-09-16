@@ -7,3 +7,23 @@
 #                       Sinon, elle est bissextile.
 #
 # Résultat attendu : Un message affichant "Année bissextile" ou "Année non bissextile"
+
+année = 200
+print(année%4)
+print(année%100)
+print(année%400)
+
+if(année%4 == 0) :
+   if(année%100) == 0 and (année%400) == 0 :
+       print("Année bissextile")
+   else:
+       print("Année non bissextile")
+else:
+    print("Année non bissextile")
+
+
+
+
+#Modulo = renvoie le reste d'une division. Dans le cas ou le modulo renvoie 0, c'est que le dividende est multiple du diviseur
+#Sources : https://openclassrooms.com/forum/sujet/verifier-si-un-nombre-est-entier-ou-decimal-12277
+

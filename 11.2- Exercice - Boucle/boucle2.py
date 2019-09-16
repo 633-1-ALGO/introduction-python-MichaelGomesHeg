@@ -3,3 +3,8 @@
 # Résultat attendu : Le tableau B trié
 
 B = [2, 6, 8, 5, 4, 12, 98, 34, 1]
+
+
+print("le tableau B trié : ", sorted(B))
+
+#Fonction sorted : https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/2233523-appliquez-deux-methodes-de-tri-en-python

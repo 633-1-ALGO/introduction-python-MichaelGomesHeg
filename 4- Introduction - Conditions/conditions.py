@@ -1,5 +1,6 @@
 # Exemple de condition
 N = 12
+
 print("Test de la valeur : ", N)
 
 if N > 0:
