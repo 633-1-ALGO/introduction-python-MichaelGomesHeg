@@ -4,3 +4,9 @@
 
 nb_articles = 13
 prix_ht = 42.75
+
+sommeArticle = 13 * 42.75
+sommeTTC = sommeArticle + sommeArticle * 7.7 / 100
+
+print("Le prix TTC est de", str(sommeTTC), "chf" )
+

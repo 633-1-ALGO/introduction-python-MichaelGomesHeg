@@ -6,6 +6,7 @@ test = "Bonjour"
 print("Test d'affichage de la valeur N :", N, " ainsi que de la valeur a : ", a)
 print("test" + test)
 print("test" + str(N))
+#print("test" + N) ne marche pas
 
 chaine = "Ceci est un exemple"
 print("La chaine de caractère :", chaine)
