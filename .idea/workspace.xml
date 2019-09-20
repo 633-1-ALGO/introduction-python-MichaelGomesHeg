@@ -5,12 +5,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/IntroductionPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IntroductionPython.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.1- Exercice - Conditions/condition1.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.1- Exercice - Conditions/condition1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.2- Exercice - Conditions/condition2.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.2- Exercice - Conditions/condition2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.1- Exercice - Boucle/boucle1.py" beforeDir="false" afterPath="$PROJECT_DIR$/11.1- Exercice - Boucle/boucle1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.2- Exercice - Boucle/boucle2.py" beforeDir="false" afterPath="$PROJECT_DIR$/11.2- Exercice - Boucle/boucle2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4- Introduction - Conditions/conditions.py" beforeDir="false" afterPath="$PROJECT_DIR$/4- Introduction - Conditions/conditions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.2  Exercice - Traitement de string/string2.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.2  Exercice - Traitement de string/string2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.1- Exercice - Listes et Tableaux/liste1.py" beforeDir="false" afterPath="$PROJECT_DIR$/12.1- Exercice - Listes et Tableaux/liste1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.2- Exercice - Listes et Tableaux/liste2.py" beforeDir="false" afterPath="$PROJECT_DIR$/12.2- Exercice - Listes et Tableaux/liste2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13.1- Exercice - Fonctions/fonction.py" beforeDir="false" afterPath="$PROJECT_DIR$/13.1- Exercice - Fonctions/fonction.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,49 +35,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.boucle2">
-    <configuration name="boucle1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="IntroductionPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11.1- Exercice - Boucle" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11.1- Exercice - Boucle/boucle1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="boucle2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="IntroductionPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11.2- Exercice - Boucle" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11.2- Exercice - Boucle/boucle2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.liste1">
     <configuration name="boucle_for" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IntroductionPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,7 +57,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="condition1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fonction" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IntroductionPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10.1- Exercice - Conditions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13.1- Exercice - Fonctions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10.1- Exercice - Conditions/condition1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13.1- Exercice - Fonctions/fonction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="condition2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="liste1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IntroductionPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +86,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10.2- Exercice - Conditions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12.1- Exercice - Listes et Tableaux" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10.2- Exercice - Conditions/condition2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12.1- Exercice - Listes et Tableaux/liste1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="liste2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IntroductionPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12.2- Exercice - Listes et Tableaux" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12.2- Exercice - Listes et Tableaux/liste2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="listes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IntroductionPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3- Introduction - Listes et Tableaux" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3- Introduction - Listes et Tableaux/listes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,19 +142,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.condition1" />
-      <item itemvalue="Python.condition2" />
       <item itemvalue="Python.boucle_for" />
-      <item itemvalue="Python.boucle1" />
-      <item itemvalue="Python.boucle2" />
+      <item itemvalue="Python.liste1" />
+      <item itemvalue="Python.liste2" />
+      <item itemvalue="Python.listes" />
+      <item itemvalue="Python.fonction" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.boucle2" />
+        <item itemvalue="Python.liste1" />
+        <item itemvalue="Python.liste2" />
+        <item itemvalue="Python.fonction" />
+        <item itemvalue="Python.listes" />
         <item itemvalue="Python.boucle_for" />
-        <item itemvalue="Python.boucle1" />
-        <item itemvalue="Python.condition2" />
-        <item itemvalue="Python.condition1" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +166,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
