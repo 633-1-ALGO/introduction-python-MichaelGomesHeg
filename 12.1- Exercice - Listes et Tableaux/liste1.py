@@ -10,12 +10,11 @@ liste = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 num = 0
 
-while num <= len(liste)-1:
+while num <= len(liste)-1 :
     num = liste[num]
     for i in range(1, len(liste) + 1):
         print(num * i, " multiple de ", num)
     print("__________")
-
 
 
 #def multiplication(liste):

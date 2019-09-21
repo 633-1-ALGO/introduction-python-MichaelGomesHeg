@@ -4,17 +4,23 @@
 tab = [[4, 7, 3, 20, 42], [2, 4, 5, 7, 2], [23, 24, 15, 75, 23]]
 
 
-
-Max = 0
-
-for grandTab in tab:
-    for donneeDansTab in grandTab:
-        if Max < donneeDansTab:
+def valeurMax(tab):
+    Max = 0
+    for grandTab in tab:
+        for donneeDansTab in grandTab:
+         if Max < donneeDansTab:
             Max = donneeDansTab
+    return Max
+
+def rechercheIndice(ret):
+    for petitTab in tab:
+            if petitTab == ret :
+                return petitTab.index(ret)
 
 
+#problème avec l'indice
 
-print("La valeur maximum est : ", Max, " et elle se trouve à l'indice ")
+print("La valeur maximum est : ", valeurMax(tab), " et elle se trouve à l'indice ", rechercheIndice(valeurMax(tab)))
 
 
 

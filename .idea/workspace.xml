@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ec7147b-d0f9-4cfb-b32a-0ca2d90cdbe3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/IntroductionPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IntroductionPython.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.1- Exercice - Listes et Tableaux/liste1.py" beforeDir="false" afterPath="$PROJECT_DIR$/12.1- Exercice - Listes et Tableaux/liste1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/12.2- Exercice - Listes et Tableaux/liste2.py" beforeDir="false" afterPath="$PROJECT_DIR$/12.2- Exercice - Listes et Tableaux/liste2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13.1- Exercice - Fonctions/fonction.py" beforeDir="false" afterPath="$PROJECT_DIR$/13.1- Exercice - Fonctions/fonction.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +31,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.liste1">
+  <component name="RunManager" selected="Python.liste2">
     <configuration name="boucle_for" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="IntroductionPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,8 +146,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.liste1" />
         <item itemvalue="Python.liste2" />
+        <item itemvalue="Python.liste1" />
         <item itemvalue="Python.fonction" />
         <item itemvalue="Python.listes" />
         <item itemvalue="Python.boucle_for" />
@@ -176,6 +172,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercice 8.1 8.2 9.1 9.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercice 8.1 8.2 9.1 9.2" />
+    <MESSAGE value="Avancement des exercices" />
+    <option name="LAST_COMMIT_MESSAGE" value="Avancement des exercices" />
   </component>
 </project>
