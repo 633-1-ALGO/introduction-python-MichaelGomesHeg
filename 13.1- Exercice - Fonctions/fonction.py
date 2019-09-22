@@ -6,6 +6,15 @@ tab_lettres = [
      'x', 'y', 'z', ' '], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]
 
 freq = 0
-abc = 0
+freqB = 0
+a= "a"
+b = "b"
 for lettre in texte:
-    print(lettre)
+    if lettre == a:
+        freq = freq + 1
+    if lettre == b:
+        freqB = freqB + 1
+print(freq, "lettre", a)
+print(freqB, "lettre", b)
+
+#Je n'ai pas trouvé la solution
